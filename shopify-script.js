@@ -5,7 +5,7 @@ var style = document.createElement('style');
 style.innerHTML = `
 
  div#shopify-section-template--16320972718257__heading{
-     opacity:.5!important;
+     //opacity:.5!important;
  }
  
 `;
